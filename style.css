@@ -1,0 +1,57 @@
+html {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 100%;
+  background: #555;
+}
+header hgroup p{
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 75%;
+  background: #555;
+}
+header h1{
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 215%;
+  background: #555;
+}
+
+nav {
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid #EEE;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  padding-right: 1em;
+}
+
+nav a {
+  color: #4090ba;
+  text-decoration: none;
+}
+
+
+section {
+    float:left;
+    margin:10px auto;
+    width:750px;
+    background:#000000
+}
+section h1 {
+    color:#FFFFFF;
+    padding:10px;
+    text-align:center;
+}
+article {
+    float:left; 
+    width:350px;
+    margin:5px;
+    padding-left:5px;
+    text-align:center;
+    background:#EEE;
+}
